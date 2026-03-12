@@ -1,0 +1,10 @@
+{
+  "fonts": [
+    {
+      "name": "OpenDyslexic",
+      "src": "https://raw.githubusercontent.com/ArthurDevYT/Discord-Font-/main/OpenDyslexic-Regular.ttf",
+      "weight": "normal",
+      "style": "normal"
+    }
+  ]
+}
