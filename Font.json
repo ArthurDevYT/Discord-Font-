@@ -1,9 +1,19 @@
 {
-  "fonts": [
-    {
-      "name": "OpenDyslexic",
-      "spec": 1,
-      "src": "https://raw.githubusercontent.com/ArthurDevYT/Discord-Font-/main/OpenDyslexic-Regular.ttf"
+    "spec": 1,
+    "name": "OpenDyslexic",
+    "previewText": "OpenDyslexic – Designed for Dyslexia Readability",
+    "main": {
+        "ggsans": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Regular.ttf",
+        "ggsans-Normal": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Regular.ttf",
+        "ggsans-Medium": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Regular.ttf",
+        "ggsans-Bold": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Bold.ttf",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Bold.ttf",
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Bold.ttf",
+        "ggsans-Italic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Italic.ttf",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-BoldItalic.ttf",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Italic.ttf",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Italic.ttf",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-BoldItalic.ttf",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-BoldItalic.ttf"
     }
-  ]
 }
