@@ -1,19 +1,12 @@
 {
-    "spec": 1,
-    "name": "OpenDyslexic",
-    "previewText": "OpenDyslexic – Designed for Dyslexia Readability",
-    "main": {
-        "ggsans": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Regular.ttf",
-        "ggsans-Normal": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Regular.ttf",
-        "ggsans-Medium": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Regular.ttf",
-        "ggsans-Bold": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Bold.ttf",
-        "ggsans-Semibold": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Bold.ttf",
-        "ggsans-ExtraBold": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Bold.ttf",
-        "ggsans-Italic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Italic.ttf",
-        "ggsans-BoldItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-BoldItalic.ttf",
-        "ggsans-NormalItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Italic.ttf",
-        "ggsans-MediumItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-Italic.ttf",
-        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-BoldItalic.ttf",
-        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/antijingoist/open-dyslexic/master/ttf/OpenDyslexic-BoldItalic.ttf"
-    }
+  "name": "Dyslexia",
+  "description": "A simple discord theme which makes the app more accommodating to people with dyslexia.",
+  "authors": [
+    { "name": "Tropical#8908" },
+    { "name": "Qwerasd#5202" }
+  ],
+  "version": "1.0",
+  "semanticColors": {},
+  "rawColors": {},
+  "customCss": "@import url('https://discordstyles.github.io/discord-dyslexia/src/base.css');\n:root {\n  --word-spacing: 3px;\n  --letter-spacing: 0.25px;\n  --message-line-spacing: 2;\n}"
 }
